@@ -1,14 +1,19 @@
-- 👋 Hi, I’m @Candrabotpanel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Candrabotpanel/Candrabotpanel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-bug imune ...
-aad prem ...
+▱▰▱「 *STRAVA-V2* 」▱▰▱
+╭──────────────────
+│ *Botname* : 
+│ *Ownername* :
+│ *Pengguna* : 
+│ *Total Fitur* : 1
+│ *Number* : 
+╰──────────────────
+┏❐ `SIMPLE MENU` ❐
+┃⭔.allmenu
+┃⭔.bugmenu
+┃⭔.ownermenu
+┃⭔.jadibotmenu
+┃⭔.groupmenu
+┗❐
+▬▭▬▭▬▭▬▭▬▭
+ 「 *RUNTIME BOT* 」
+3 Menit, 
+▬▭▬▭▬▭▬▭▬▭▬▭
